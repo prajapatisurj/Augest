@@ -1,0 +1,33 @@
+.form-div{
+
+  margin-top: 20px;
+    text-align: center;
+    width: 50%;
+    background-color:lightslategray;
+    margin-left: 20px;
+    padding:25px;
+
+}
+
+.container-fluid{
+  padding:0;
+  margin: 0;
+  height: 721px;
+  text-align: -webkit-center;
+  background: linear-gradient(
+45deg
+, black, transparent);
+}
+.head{
+  padding: 25px;
+    color: white;
+}
+.MyBtn{
+  width: 50%;
+    border-radius: 30px;
+    color: yellow;
+    margin-top: 5px;
+    background-color: black;
+    border-color: aqua;
+    padding: 3px;
+}
